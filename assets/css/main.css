@@ -159,10 +159,6 @@ ul {
   padding: 0px;
 }
 
-li {
-  list-style: none;
-}
-
 p {
   font-size: 16px;
   font-weight: 400;
@@ -206,6 +202,20 @@ label {
 /*--
     - Input Placeholder
 -----------------------------------------*/
+
+/* Contetns-1 */
+
+.contents {
+  padding-top: 2rem;
+  font-size: large;
+  color: rgb(0, 0, 0);
+}
+
+.contents-1 {
+  color: #000;
+  padding-top: 1.2rem;
+  padding-left: 2rem;
+}
 
 *::-webkit-input-placeholder {
   color: #000;
