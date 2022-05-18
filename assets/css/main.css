@@ -199,6 +199,10 @@ label {
   text-shadow: none;
 }
 
+li::marker {
+  color: #000;
+}
+
 /*--
     - Input Placeholder
 -----------------------------------------*/
@@ -212,9 +216,45 @@ label {
 }
 
 .contents-1 {
-  color: #000;
+  color: rgb(0, 0, 0);
   padding-top: 1.2rem;
   padding-left: 2rem;
+}
+
+.contents1 {
+  position: relative;
+  top: -239px;
+  left: 359px;
+}
+
+.contents1-0 {
+  position: relative;
+  top: -239px;
+  left: 359px;
+}
+
+.contents2 {
+  position: relative;
+  top: -477px;
+  left: 661px;
+}
+
+.contents1-1 {
+  position: relative;
+  top: -478px;
+  left: 659px;
+}
+
+.contents3 {
+  position: relative;
+  top: -715px;
+  left: 1047px;
+}
+
+.contents1-2 {
+  position: relative;
+  top: -716px;
+  left: 1047px;
 }
 
 *::-webkit-input-placeholder {
@@ -4914,9 +4954,27 @@ input.main-search-input:-ms-input-placeholder {
 }
 
 .courses-details-wrapper h5 {
-  color: #707070;
+  color: #000000;
   font-weight: 500;
   margin-bottom: 20px;
+}
+
+.details h6 {
+  position: relative;
+  top: -256px;
+  left: 359px;
+}
+
+.details1 h6 {
+  position: relative;
+  top: -494px;
+  left: 661px;
+}
+
+.details2 h6 {
+  position: relative;
+  top: -733px;
+  left: 1048px;
 }
 
 .courses-title {
