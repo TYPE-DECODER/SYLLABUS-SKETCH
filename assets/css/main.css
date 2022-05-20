@@ -223,26 +223,26 @@ li::marker {
 
 .contents1 {
   position: relative;
-  top: -239px;
+  top: -285px;
   left: 359px;
 }
 
 .contents1-0 {
   position: relative;
-  top: -239px;
+  top: -288px;
   left: 359px;
 }
 
 .contents2 {
   position: relative;
-  top: -477px;
-  left: 661px;
+  top: -720px;
+  left: 714px;
 }
 
 .contents1-1 {
   position: relative;
-  top: -478px;
-  left: 659px;
+  top: -724px;
+  left: 717px;
 }
 
 .contents3 {
@@ -256,6 +256,7 @@ li::marker {
   top: -860px;
   left: 1047px;
 }
+
 
 *::-webkit-input-placeholder {
   color: #000;
@@ -4961,14 +4962,14 @@ input.main-search-input:-ms-input-placeholder {
 
 .details h6 {
   position: relative;
-  top: -256px;
+  top: -303px;
   left: 359px;
 }
 
 .details1 h6 {
   position: relative;
-  top: -494px;
-  left: 661px;
+  top: -737px;
+  left: 713px;
 }
 
 .details2 h6 {
