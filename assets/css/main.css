@@ -223,25 +223,25 @@ li::marker {
 
 .contents1 {
   position: relative;
-  top: -285px;
+  top: -234px;
   left: 359px;
 }
 
 .contents1-0 {
   position: relative;
-  top: -288px;
+  top: -242px;
   left: 359px;
 }
 
 .contents2 {
   position: relative;
-  top: -720px;
+  top: -472px;
   left: 714px;
 }
 
 .contents1-1 {
   position: relative;
-  top: -724px;
+  top: -477px;
   left: 717px;
 }
 
@@ -256,6 +256,7 @@ li::marker {
   top: -860px;
   left: 1047px;
 }
+
 
 .contents-1 {
   color: rgb(0, 0, 0);
@@ -5050,13 +5051,13 @@ input.main-search-input:-ms-input-placeholder {
 
 .details h6 {
   position: relative;
-  top: -303px;
+  top: -257px;
   left: 359px;
 }
 
 .details1 h6 {
   position: relative;
-  top: -737px;
+  top: -492px;
   left: 713px;
 }
 
