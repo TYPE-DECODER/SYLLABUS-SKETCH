@@ -6,7 +6,23 @@ Licensed under the MIT license - http://opensource.org/licenses/MIT
 
 Copyright (c) 2015 Daniel Eden
 */
+.logo{
+	width: 160px;
+	cursor: pointer;
+	animation: movedown 1s linear 1;
+	
+}
 
+@keyframes movedown{
+	0%{
+		transform: translateY(-100px);
+		
+	}
+	100%{
+		transform: translateY(0);
+	
+	}
+}
 .animated {
 	-webkit-animation-duration: 1s;
 	animation-duration: 1s;
