@@ -251,13 +251,11 @@ li::marker {
   left: 1047px;
 }
 
-
 .contents1-2 {
   position: relative;
   top: -860px;
   left: 1047px;
 }
-
 
 .contents-1 {
   color: rgb(0, 0, 0);
@@ -346,6 +344,53 @@ li::marker {
   position: relative;
   top: -1452px;
   left: 1238px;
+}
+
+.contents-1st2 {
+  position: relative;
+  top: -922px;
+}
+
+.contents1-1st {
+  position: relative;
+  top: -911px;
+  left: 25px;
+}
+
+.contents-1st3 {
+  position: relative;
+  top: -1340px;
+  left: 399px;
+}
+
+.contents1-2nd {
+  position: relative;
+  top: -1350px;
+  left: 422px;
+}
+
+.contents-1st4 {
+  position: relative;
+  top: -1728px;
+  left: 695px;
+}
+
+.contents1-3rd {
+  position: relative;
+  top: -1740px;
+  left: 721px;
+}
+
+.contents-1st5 {
+  position: relative;
+  top: -2190px;
+  left: 981px;
+}
+
+.contents1-4th {
+  position: relative;
+  top: -2203px;
+  left: 1011px;
 }
 
 *::-webkit-input-placeholder {
@@ -5108,6 +5153,30 @@ input.main-search-input:-ms-input-placeholder {
   top: -1458px;
   left: 1221px;
 }
+
+.details04 h6 {
+  position: relative;
+  top: -922px;
+}
+
+.details05 h6 {
+  position: relative;
+  top: -1359px;
+  left: 399px;
+}
+
+.details06 h6 {
+  position: relative;
+  top: -1747px;
+  left: 695px;
+}
+
+.details07 h6 {
+  position: relative;
+  top: -2211px;
+  left: 981px;
+}
+
 .courses-title {
   font-size: 32px;
 }
