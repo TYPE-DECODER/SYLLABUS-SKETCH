@@ -393,6 +393,64 @@ li::marker {
   left: 1011px;
 }
 
+.contents-1st6 {
+  position: relative;
+  top: -2454px;
+}
+
+.contents1-5th {
+  position: relative;
+  top: -2447px;
+  left: 25px;
+}
+
+.contents-1st7 {
+  position: relative;
+  top: -2770px;
+  left: 499px;
+}
+
+.contents1-6th {
+  position: relative;
+  top: -2787px;
+  left: 523px;
+}
+
+.contents-1st8 {
+  position: relative;
+  top: -2770px;
+  left: 499px;
+}
+
+.contents1-7th {
+  position: relative;
+  top: -2787px;
+  left: 523px;
+}
+
+.contents-1st9 {
+  position: relative;
+  top: -3045px;
+  left: 775px;
+}
+
+.contents1-8th {
+  position: relative;
+  top: -3063px;
+  left: 798px;
+}
+
+.contents-1st10 {
+  position: relative;
+  top: -3060px;
+}
+
+.contents1-9th {
+  position: relative;
+  top: -3044px;
+  left: 25px;
+}
+
 *::-webkit-input-placeholder {
   color: #000;
   font-size: 14px;
@@ -5175,6 +5233,50 @@ input.main-search-input:-ms-input-placeholder {
   position: relative;
   top: -2211px;
   left: 981px;
+}
+
+.details08 h6 {
+  position: relative;
+  top: -2454px;
+  left: 1px;
+}
+
+.details09 h6 {
+  position: relative;
+  top: -2793px;
+  left: 499px;
+}
+
+.details10 h6 {
+  position: relative;
+  top: -2793px;
+  left: 499px;
+}
+
+.details11 h6 {
+  position: relative;
+  top: -3068px;
+  left: 775px;
+}
+
+.details12 h2 {
+  position: relative;
+  top: -3070px;
+}
+
+.details12 h5 {
+  position: relative;
+  top: -3070px;
+}
+
+.details12 h3 {
+  position: relative;
+  top: -3072px;
+}
+
+.details12 h6 {
+  position: relative;
+  top: -3058px;
 }
 
 .courses-title {
