@@ -451,6 +451,136 @@ li::marker {
   left: 25px;
 }
 
+.contents-1st11 {
+  position: relative;
+  top: -3404px;
+  left: 474px;
+}
+
+.contents1-10th {
+  position: relative;
+  top: -3404px;
+  left: 500px;
+}
+
+.contents-1st12 {
+  position: relative;
+  top: -3719px;
+  left: 819px;
+}
+
+.contents1-11th {
+  position: relative;
+  top: -3716px;
+  left: 849px;
+}
+
+.contents-1st13 {
+  position: relative;
+  top: -3981px;
+  left: 1161px;
+}
+
+.contents1-12th {
+  position: relative;
+  top: -3977px;
+  left: 1190px;
+}
+
+.contents-1st14 {
+  position: relative;
+  top: -4108px;
+  left: 16px;
+}
+
+.contents1-13th {
+  position: relative;
+  top: -4097px;
+  left: 41px;
+}
+
+.contents-1st15 {
+  position: relative;
+  top: -4429px;
+  left: 352px;
+}
+
+.contents1-14th {
+  position: relative;
+  top: -4436px;
+  left: 381px;
+}
+
+.contents-1st16 {
+  position: relative;
+  top: -4429px;
+  left: 352px;
+}
+
+.contents1-15th {
+  position: relative;
+  top: -4436px;
+  left: 381px;
+}
+
+.contents-1st17 {
+  position: relative;
+  top: -4803px;
+  left: 599px;
+}
+
+.contents1-16th {
+  position: relative;
+  top: -4809px;
+  left: 627px;
+}
+
+.contents-1st18 {
+  position: relative;
+  top: -4807px;
+}
+
+.contents1-17th {
+  position: relative;
+  top: -4794px;
+  left: 25px;
+}
+
+.contents-1st19 {
+  position: relative;
+  top: -4807px;
+}
+
+.contents1-18th {
+  position: relative;
+  top: -4809px;
+  left: 25px;
+}
+
+.contents-1st20 {
+  position: relative;
+  top: -5065px;
+  left: 399px;
+}
+
+.contents1-19th {
+  position: relative;
+  top: -5077px;
+  left: 430px;
+}
+
+.contents-1st21 {
+  position: relative;
+  top: -5065px;
+  left: 399px;
+}
+
+.contents1-20th {
+  position: relative;
+  top: -5077px;
+  left: 430px;
+}
+
 *::-webkit-input-placeholder {
   color: #000;
   font-size: 14px;
@@ -5277,6 +5407,70 @@ input.main-search-input:-ms-input-placeholder {
 .details12 h6 {
   position: relative;
   top: -3058px;
+}
+
+.details13 h6 {
+  position: relative;
+  top: -3425px;
+  left: 474px;
+}
+
+.details14 h6 {
+  position: relative;
+  top: -3737px;
+  left: 820px;
+}
+
+.details15 h6 {
+  position: relative;
+  top: -4002px;
+  left: 1161px;
+}
+
+.details16 h6 {
+  position: relative;
+  top: -4109px;
+  left: 18px;
+}
+
+.details17 h6 {
+  position: relative;
+  top: -4452px;
+  left: 354px;
+}
+
+.details18 h6 {
+  position: relative;
+  top: -4452px;
+  left: 354px;
+}
+
+.details19 h6 {
+  position: relative;
+  top: -4827px;
+  left: 600px;
+}
+
+.details20 h6 {
+  position: relative;
+  top: -4809px;
+}
+
+.details21 h6 {
+  position: relative;
+  top: -4828px;
+}
+
+.details22 h6 {
+  position: relative;
+  top: -5088px;
+  left: 399px;
+}
+
+.details23 h6 {
+  position: relative;
+  top: -5088px;
+  left: 399px;
 }
 
 .courses-title {
